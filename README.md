@@ -97,7 +97,7 @@ _You should make a PR (stands for Pull Request) as soon as you make any signific
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_b2aa98f91affe5d4c5f12f216b069184.png) -->
 
-   -->
+   
 Completed below tasks
 
 ## Instructions
