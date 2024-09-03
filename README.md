@@ -6,7 +6,7 @@
 # LAB | JS Basic Algorithms
 
  
-
+<!-- 
 Welcome to your first bootcamp exercise at Open Bootcamp!
 
   
@@ -97,7 +97,8 @@ _You should make a PR (stands for Pull Request) as soon as you make any signific
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_b2aa98f91affe5d4c5f12f216b069184.png) -->
 
-  
+   -->
+Completed below tasks
 
 ## Instructions
 
@@ -191,7 +192,7 @@ __Hint__: If you use Google to help you to find solution to this iteration, you 
 
   
 
-## Extra Resources
+<!-- ## Extra Resources
 
   
 
@@ -206,4 +207,4 @@ __Hint__: If you use Google to help you to find solution to this iteration, you 
   
   
 
-__Happy coding!__ :heart:
+__Happy coding!__ :heart: -->
